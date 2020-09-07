@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 c7be7ce6b83185e44c5551f420dd27718d365a46 sea-kg <mrseakg@gamail.com> 1441302529 +0600	commit (initial): added readme
+c7be7ce6b83185e44c5551f420dd27718d365a46 26b86609516b8aefb5a8c4a5f6c6a5d657500d6c sea-kg <mrseakg@gamail.com> 1441302593 +0600	commit: added file1
+26b86609516b8aefb5a8c4a5f6c6a5d657500d6c 4c9f533c18b3fc9a160ae5454b047ebb4c6c8649 sea-kg <mrseakg@gamail.com> 1441302657 +0600	commit: updated file1
+4c9f533c18b3fc9a160ae5454b047ebb4c6c8649 9d852b33843241a9bc4942a9c42584292d5de6a6 sea-kg <mrseakg@gamail.com> 1441302722 +0600	commit: updated flag1
+9d852b33843241a9bc4942a9c42584292d5de6a6 7de1e450edbcd3650d1987dd34878f105b4f0b51 sea-kg <mrseakg@gamail.com> 1441302817 +0600	commit: updated file1
+7de1e450edbcd3650d1987dd34878f105b4f0b51 0d386f29353db1c095831b880f9b918f706e38ef sea-kg <mrseakg@gamail.com> 1441302995 +0600	commit: updated file1
+0d386f29353db1c095831b880f9b918f706e38ef 0d386f29353db1c095831b880f9b918f706e38ef sea-kg <mrseakg@gamail.com> 1441303023 +0600	checkout: moving from master to branch1
+0d386f29353db1c095831b880f9b918f706e38ef 794a1f3c4ea451767e6cd195a468e84ca8280ee3 sea-kg <mrseakg@gamail.com> 1441303057 +0600	commit: updated file1
+794a1f3c4ea451767e6cd195a468e84ca8280ee3 0d386f29353db1c095831b880f9b918f706e38ef sea-kg <mrseakg@gamail.com> 1441303072 +0600	checkout: moving from branch1 to master
+0d386f29353db1c095831b880f9b918f706e38ef 9718d9d6248c5d0cc1f244195ed501abd0736268 sea-kg <mrseakg@gamail.com> 1441303224 +0600	commit: updated 1
+9718d9d6248c5d0cc1f244195ed501abd0736268 fe7586830b4aea6514842080a4fe7986832eb0d6 sea-kg <mrseakg@gamail.com> 1441303354 +0600	commit: updated file1
+fe7586830b4aea6514842080a4fe7986832eb0d6 db4f1d78ad6f8faeb0eafa3cf6dc3784f0de8ea7 sea-kg <mrseakg@gamail.com> 1441303376 +0600	commit: updated file1
+db4f1d78ad6f8faeb0eafa3cf6dc3784f0de8ea7 deae0979b4f7ef5972d5dc9f4209972df3d4bf3c sea-kg <mrseakg@gamail.com> 1441303394 +0600	commit: updated file1
+deae0979b4f7ef5972d5dc9f4209972df3d4bf3c 269bf5ddc8c979195cc3f861e37448f6a4c8a58b sea-kg <mrseakg@gamail.com> 1441303422 +0600	commit: updated file1
+269bf5ddc8c979195cc3f861e37448f6a4c8a58b 7dc1bab612eac2cd5ae732256ac328150c3af56f sea-kg <mrseakg@gamail.com> 1441303587 +0600	commit: updated file1
